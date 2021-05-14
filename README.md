@@ -1,1 +1,2 @@
-# CLASS-20-PROJECT
+# collisionAlgorithm
+Algorithm to detect collision between two objects
